@@ -9,7 +9,7 @@ layout: default
     > Thursday, October 23, 5pm, @math department 4th floor lounge.
   - with prizes, trivia, food and drinks, plus a lot of fun!
   - <img src="./assets/img/2526GameNight.png" width="500"/>
-  - Poster credit to Esty Gusak.
+  - Poster credit to Maya Ester Gusak.
 
 # Past Events
 Unless a date is specified below, the schedule is a estimated time range, and we will update here once the date has been settled.
