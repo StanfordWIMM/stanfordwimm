@@ -7,6 +7,8 @@ layout: default
 - Week 5:
   - **SWIMM Game Night**
     > Thursday, October 23, 5pm, @ math department fourth floor lounge.
+  - with prizes, trivia, food and drinks, plus a lot of fun!
+  - <img src="./assets/img/.png" width="500"/>
 
 # Past Events
 Unless a date is specified below, the schedule is a estimated time range, and we will update here once the date has been settled.
@@ -15,7 +17,7 @@ A program wide event that has happened already is in italic. Events that's happe
 
 ## Spring 2024
 - Week 2 onwards:
-  - **Mentor-Mentee Meals**
+  - _Mentor-Mentee Meals_
   - Go to a meal with your mentor/mentee in this beautiful weather!
 - Week 3
   - _SWIMM Dish Hiking._
@@ -24,7 +26,7 @@ A program wide event that has happened already is in italic. Events that's happe
   - <img src="./assets/img/SunsetSwimmHike.png" width="500"/>
   - Poster credit to Luisa Maria Boateng.
 - Week 4
-  - **Stanford Admit Weekend**
+  - _Stanford Admit Weekend_
   - Come visit us at the the table joined with [SUMO](https://sumo.stanford.edu).
   - <img src="./assets/img/25AdmitWeekendSWIMM.png" width="500"/>
   - Poster credit to Luisa Maria Boateng.
