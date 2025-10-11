@@ -6,9 +6,10 @@ layout: default
 ## Fall 2025
 - Week 5:
   - **SWIMM Game Night**
-    > Thursday, October 23, 5pm, @ math department fourth floor lounge.
+    > Thursday, October 23, 5pm, @math department 4th floor lounge.
   - with prizes, trivia, food and drinks, plus a lot of fun!
-  - <img src="./assets/img/.png" width="500"/>
+  - <img src="./assets/img/2526GameNight.png" width="500"/>
+  - Poster credit to Esty Gusak.
 
 # Past Events
 Unless a date is specified below, the schedule is a estimated time range, and we will update here once the date has been settled.
