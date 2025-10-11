@@ -3,6 +3,16 @@ layout: default
 ---
 
 # Upcoming
+## Fall 2025
+- Week 5:
+  - **SWIMM Game Night**
+    > Thursday, October 23, 5pm, @ math department fourth floor lounge.
+
+# Past Events
+Unless a date is specified below, the schedule is a estimated time range, and we will update here once the date has been settled.
+
+A program wide event that has happened already is in italic. Events that's happening now or soon are in bold.
+
 ## Spring 2024
 - Week 2 onwards:
   - **Mentor-Mentee Meals**
@@ -20,10 +30,6 @@ layout: default
   - Poster credit to Luisa Maria Boateng.
 - We will have program-wide dinner and many more fun events!
 
-# Past Events
-Unless a date is specified below, the schedule is a estimated time range, and we will update here once the date has been settled.
-
-A program wide event that has happened already is in italic. Events that's happening now or soon are in bold.
 
 ## Winter 2024
 - Week 3:
